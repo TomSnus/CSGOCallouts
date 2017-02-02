@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776813653675",
+    "firebase_url": "https://csgocallouts.firebaseio.com",
+    "project_id": "csgocallouts",
+    "storage_bucket": "csgocallouts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776813653675:android:ac7d8adcef051393",
+        "android_client_info": {
+          "package_name": "com.csgo.sentes.csgocallouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776813653675-e83mpg2v5vpvaqem5qfp4hcbgvlj77ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SLXpc3y9wAfoDfTGJuxB8HGNDgR0T3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776813653675-e83mpg2v5vpvaqem5qfp4hcbgvlj77ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
