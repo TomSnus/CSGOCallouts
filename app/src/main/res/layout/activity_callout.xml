@@ -9,7 +9,7 @@
     android:orientation="vertical"
     tools:context="com.csgo.sentes.csgocallouts.CalloutActivity">
 
-    <ImageView
+    <com.csgo.sentes.csgocallouts.TouchImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:src="@drawable/ca_cache"

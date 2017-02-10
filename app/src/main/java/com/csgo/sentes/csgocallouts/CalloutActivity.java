@@ -24,7 +24,7 @@ public class CalloutActivity extends AppCompatActivity {
         Intent intent = getIntent();
         int value = intent.getIntExtra("imageRecource", R.drawable.ca_dust2);
 
-        ImageView calloutView = (ImageView) findViewById(R.id.calloutImageView);
+        TouchImageView  calloutView = (TouchImageView ) findViewById(R.id.calloutImageView);
         calloutView.setImageResource(value);
         calloutView.setVisibility(View.VISIBLE);
     }
