@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         maps.add(new Map("Train",R.drawable.train, R.drawable.ca_train));
         maps.add(new Map("Overpass", R.drawable.overpass, R.drawable.ca_overpass));
         maps.add(new Map("Nuke", R.drawable.nuke, R.drawable.ca_nuke));
-
+        maps.add(new Map("Canals", R.drawable.canals, R.drawable.ca_canals));
         MapAdapter ma = new MapAdapter(this, maps);
 
         if(mListView != null)
